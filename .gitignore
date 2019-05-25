@@ -1,0 +1,5 @@
+.atom/
+.cache/
+.pki/
+.gitconfig
+.config/
