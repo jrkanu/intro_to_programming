@@ -3,3 +3,4 @@
 .pki/
 .gitconfig
 .config/
+.*
